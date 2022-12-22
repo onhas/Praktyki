@@ -65,5 +65,24 @@
 
 # 15.12.2022
 
+- Ukonczenie kursu c++
+- wykonywanie zadan
 
+# 16.12.2022
 
+- wykonywanie zadań
+
+# 19.12.2022
+
+- praca z arduino
+- programowanie kontroli świateł led
+
+# 20.12.2022
+
+- praca z arduino
+- podłączenie, montaż świateł
+
+# 21.12.2022
+
+- praca z arduino
+- testowanie i poprawka kontroli światełled
